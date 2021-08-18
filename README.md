@@ -1,5 +1,10 @@
-### Hi there 👋
+### Olá! :zany_face:
 
+### Meu nome é Cauê, estudante do curso de Engenharia Nuclear na UFRJ :radioactive:
+
+### :heavy_check_mark: Sou integrante do Projeto de Extensão "Ciência de Dados Para Cidades Inteligentes", em que aprimoramos nosso conhecimento acerca do Data Science e Machine Learning, sempre tentando envolver a sociedade em nossos projetos.
+### :heavy_check_mark: Participo da Equipe de Competição de Ciência de Dados da UFRJ, a "Analytica", em que participamos de hackathons e datathons.
+###
 <!--
 **CaueCaviglioni/CaueCaviglioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
