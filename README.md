@@ -16,12 +16,12 @@
 
  :heavy_check_mark: Sou integrante do Projeto de Extensão **Ciência de Dados Para Cidades Inteligentes**, em que aprimoramos nosso conhecimento acerca de Data Science e Machine Learning, sempre tentando envolver a sociedade em nossos projetos.
 
- :heavy_check_mark: Participo da **Equipe de Competição** de Ciência de Dados da UFRJ, a ** [UFRJ Analytica](https://ufrjanalytica.ml/)**, em que participamos de hackathons e datathons.
+ :heavy_check_mark: Participo da **Equipe de Competição** de Ciência de Dados da UFRJ, a [UFRJ Analytica](https://ufrjanalytica.ml/), em que participamos de hackathons e datathons.
  
  Linguagens de programação:keyboard: 
   
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)/"><img alt="C" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" height="25"/></a>
+<a href="https://pt.wikipedia.org/wiki/C%2B%2B"><img alt="C" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" height="25"/></a>
   
 </div>
 <br>
