@@ -6,10 +6,10 @@
   Olá! :zany_face:
  <br>
 </h2> 
-<a href="#" alt="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cauecaviglionidaniel1999@gmail.com" /></a>
-<a href="#" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cau%C3%AA-caviglioni-daniel-silva-53b26820b/" /></a>
+<a href="mailto:cauecaviglionidaniel1999@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:cauecaviglionidaniel1999@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/cau%C3%AA-caviglioni-daniel-silva-53b26820b/ alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cau%C3%AA-caviglioni-daniel-silva-53b26820b/" /></a>
    
   Meu nome é Cauê, estudante do curso de **Engenharia Nuclear** na UFRJ :radioactive:
 
