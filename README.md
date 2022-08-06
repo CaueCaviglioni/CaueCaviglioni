@@ -16,7 +16,9 @@
 
  :heavy_check_mark: Sou integrante do Projeto de Extensão **Ciência de Dados Para Cidades Inteligentes**, em que aprimoramos nosso conhecimento acerca de Data Science e Machine Learning, sempre tentando envolver a sociedade em nossos projetos.
 
- :heavy_check_mark: Participo da **Equipe de Competição** de Ciência de Dados da UFRJ, a [UFRJ Analytica](https://ufrjanalytica.ml/), em que participamos de hackathons e datathons.
+ :heavy_check_mark: Participei da **Equipe de Competição** de Ciência de Dados da UFRJ, a [UFRJ Analytica](https://ufrjanalytica.ml/), em que participamos de hackathons e datathons.
+ 
+ :heavy_check_mark: Trabalho como Analista de Dados na empresa de tecnologia [Ativy](http://ativy.com/).
  
  Linguagens de programação:keyboard: 
   
@@ -43,6 +45,8 @@
  :heavy_check_mark: I'm part of the Extension Project **Data Science for Smart Cities**. This project aims to improve our knowledge on Data Science and Machine Learning solving and optimizing society's issues. 
 
  :heavy_check_mark: I'm part of the Data Science **Competition Team** of UFRJ, the [UFRJ Analytica](https://ufrjanalytica.ml/), in which we compete on hackathons and datathons.
+ 
+ :heavy_check_mark: I work at tech company [Ativy](http://ativy.com/) as data analyst.
  
   
   
