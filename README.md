@@ -42,9 +42,9 @@
  
   My name is Cauê and I study **Nuclear Engineering** at [UFRJ](https://ufrj.br/) :radioactive:
 
- :heavy_check_mark: I'm part of the Extension Project **Data Science for Smart Cities**. This project aims to improve our knowledge on Data Science and Machine Learning solving and optimizing society's issues. 
+ :heavy_check_mark: I was part of the Extension Project **Data Science for Smart Cities**. This project aims to improve our knowledge on Data Science and Machine Learning solving and optimizing society's issues. 
 
- :heavy_check_mark: I'm part of the Data Science **Competition Team** of UFRJ, the [UFRJ Analytica](https://ufrjanalytica.ml/), in which we compete on hackathons and datathons.
+ :heavy_check_mark: I was part of the Data Science **Competition Team** of UFRJ, the [UFRJ Analytica](https://ufrjanalytica.ml/), in which we compete on hackathons and datathons.
  
  :heavy_check_mark: I work at tech company [Ativy](http://ativy.com/) as data analyst.
  
